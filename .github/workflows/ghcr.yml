@@ -50,7 +50,6 @@ jobs:
           labels: |
             org.opencontainers.image.base=node22
             org.opencontainers.image.title=reactjs-quiz-app
-            org.opencontainers.image.vendor=vedansh
             org.opencontainers.image.framework=reactjs
             org.opencontainers.image.styler=bootstrap+css
 
