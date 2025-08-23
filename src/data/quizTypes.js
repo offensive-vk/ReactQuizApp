@@ -1,5 +1,5 @@
 /**
- * @author Vedansh
+ * @author @offensive-vk
  * @description Quiz types data with their display names, icons, and IDs
  * This centralized data is used across the application
  */
